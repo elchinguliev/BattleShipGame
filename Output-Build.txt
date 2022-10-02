@@ -1,0 +1,32 @@
+﻿Build started...
+1>------ Build started: Project: Battlefield project, Configuration: Debug Win32 ------
+1>Source.cpp
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(24,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(33,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(35,24): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(51,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(53,24): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(102,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(104,24): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(173,24): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(175,25): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(177,38): warning C4018: '>=': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(177,62): warning C4018: '>=': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(191,25): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(193,26): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(233,25): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(235,26): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(261,24): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(263,25): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(270,24): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(273,25): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(446,25): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(448,26): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(466,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(492,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\function.h(678,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\Source.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+1>C:\Users\User\source\repos\Battlefield project\Battlefield project\Source.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>Battlefield project.vcxproj -> C:\Users\User\source\repos\Battlefield project\Debug\Battlefield project.exe
+1>Done building project "Battlefield project.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
